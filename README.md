@@ -1,6 +1,6 @@
 # Voice Command React Native Mobile App 
 
-![Alt text](screenShot.png)
+<img src="screenShot.png" width="50%" height="50%">
 
 A simple and user-friendly React Native mobile app that allows users to access voice commands with just a tap. The app uses the device's text-to-speech (TTS) feature to read out the commands. The user interface is designed to be easy to use, with a list of commands displayed in a flat list. Use phone speaker to emit Tesla voice commands.
 
